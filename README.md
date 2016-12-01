@@ -1,2 +1,2 @@
-# nodeschool-projects
-NodeSchool courses materials &amp; exercises
+# NodeSchool courses
+Materials &amp; exercises
