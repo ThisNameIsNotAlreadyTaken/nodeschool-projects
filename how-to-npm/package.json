@@ -1,0 +1,19 @@
+{
+  "name": "howto",
+  "version": "1.0.1",
+  "description": "howtonpm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "vasya",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com"
+  }
+}
